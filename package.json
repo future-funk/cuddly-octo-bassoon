@@ -1,0 +1,11 @@
+{
+  "name": "cuddly-octo-basoon",
+  "version": "1.0.0",
+  "description": "Does things",
+  "main": "index.js",
+  "dependencies": {
+    "jsts": "^2.11.0"
+  },
+  "repository": "https://github.com/github/dependency-graph-api",
+  "license": "MIT"
+}
